@@ -20,7 +20,7 @@ const helza = {
   hobbies: {
                 leitura: ['Trono de Vidro - Sarah J.Maas',
                           'Só Para Os Fortes de Coração - Lex Croucher',
-                          'A Casa No Mar Cerúleo - TJ Klune'], // Livros de Fantasia, Romance e suspense são meu xódo
+                          'A Casa No Mar Cerúleo - TJ Klune'], // Livros de Fantasia, Romance e suspense são meu xodó
                 jogos: ['Enigma do Medo','Valorant',
                        'South Of Midnight',
                        'Horizon Forbidden West'], // Amo puzzles, investigação, rpgs e joguinho de tiro com magia
