@@ -1,4 +1,4 @@
-## Helza Aragão
+## 👩🏻‍💻 Helza Aragão
 
 **`Desenvolvedora Front-end`**
 
