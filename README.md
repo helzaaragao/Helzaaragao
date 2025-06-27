@@ -14,38 +14,24 @@
 
 ```javascript
 const helza = {
-  nickname: 'hel',
-  education: 'Engenharia de Software',
-  studyingTools: [Tailwind, SQL, Python],
+  apelido: 'hel || helzinha', // Variações aceitas
+  graduacao: 'Engenharia de Software',
+  estudando: [Tailwind, SQL, Python],
   hobbies: {
-                read: ['Trono de Vidro - Sarah J.Maas',
-                      'Só Para Os Fortes de Coração - Lex Croucher', 'A Casa No Mar Cerúleo - TJ Klune'],
-                play: ["Enigma do Medo", "Valorant",
-                       "South Of Midnight", "Horizon Forbidden West"],
-                watchSeries: ['Stranger Things', 'The Trunk',
-                              'Over The Garden Wall', 'She-ra and The Princesses of Power']
-             },
-```
-
-
-> " Bibliotecas estão cheias de ideias, talvez seja a mais poderosa e perigosa de todas as armas""
-      
-
-<!--
-Conheci o mundo da tecnologia através de causas sociais como o Reprograma.
-
-**helzaaragao/Helzaaragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+                leitura: ['Trono de Vidro - Sarah J.Maas',
+                          'Só Para Os Fortes de Coração - Lex Croucher',
+                          'A Casa No Mar Cerúleo - TJ Klune'], // Livros de Fantasia, Romance e suspense são meu xódo
+                jogos: ['Enigma do Medo','Valorant',
+                       'South Of Midnight',
+                       'Horizon Forbidden West'], // Amo puzzles, investigação, rpgs e joguinho de tiro com magia
+                series: ['Stranger Things', 'The Trunk',
+                         'Over The Garden Wall',
+                         'She-ra and The Princesses of Power'] // Prefiro assistir séries do que filmes
+          },
+  sabiaQue: [
+    'Já debuguei código no sonho (e funcionou)',
+    'Tenho um clube do livro a mais de 4 anos',
+    'Escuto música para fazer quase tudo',
+    'Jogo rpg de mesa dos universos Tormenta20 e Ordem Paranormal']
+};
+```      
