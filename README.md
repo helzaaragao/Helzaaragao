@@ -18,13 +18,13 @@ const helza = {
   graduacao: 'Engenharia de Software',
   estudando: [Tailwind, SQL, Python],
   hobbies: {
-                leitura: ['Trono de Vidro - Sarah J.Maas',
+                ler: ['Trono de Vidro - Sarah J.Maas',
                           'Só Para Os Fortes de Coração - Lex Croucher',
-                          'A Casa No Mar Cerúleo - TJ Klune'], // Livros de Fantasia, Romance e suspense são meu xodó
-                jogos: ['Enigma do Medo','Valorant',
+                          'A Casa No Mar Cerúleo - TJ Klune'], // Livros de fantasia, romance e suspense são os meus xodós
+                jogar: ['Enigma do Medo','Valorant',
                        'South Of Midnight',
                        'Horizon Forbidden West'], // Amo puzzles, investigação, rpgs e joguinhos de tiro com magia
-                series: ['Stranger Things', 'The Trunk',
+                verSeries: ['Stranger Things', 'The Trunk',
                          'Over The Garden Wall',
                          'She-ra and The Princesses of Power'] // Prefiro assistir séries do que filmes
           },
